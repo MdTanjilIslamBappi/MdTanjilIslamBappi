@@ -14,6 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: MdTanjilIslamBappi/readme@main
+        uses: readme@main
         with:       
           CREDLY_USER: md-tanjil-islam-bappi
