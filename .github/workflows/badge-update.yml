@@ -17,4 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: md-tanjil-islam-bappi
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
