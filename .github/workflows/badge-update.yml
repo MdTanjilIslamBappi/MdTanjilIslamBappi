@@ -18,3 +18,4 @@ jobs:
         with:       
           CREDLY_USER: md-tanjil-islam-bappi
           CREDLY_SORT: RECENT
+          BADGE_SIZE: 100
