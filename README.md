@@ -1,4 +1,17 @@
 ## 👋 Good day! Nice to see you here 😄
+
+
+As a systems engineer passionate about servers, storage, and virtualization, I bring over ten years of experience designing and implementing enterprise IT solutions. 
+My expertise in virtualization technologies such as VMware and Hyper-V and my deep understanding of storage systems, network infrastructure, and server hardware have allowed me to deliver successful client IT projects. I am a creative problem solver and a strong communicator, able to work effectively with stakeholders to drive technical excellence and ensure project success.
+
+🌱 I’m currently learning PowerCLI and Python
+
+🥳 Fun fact: I love to experiment with coffee brewing methods, and I love to travel.
+
+📫 How to reach me: https://www.linkedin.com/in/tanjil360/
+
+
+## Badges that I have earned
 <!--START_SECTION:badges-->
 [![IT Academy: Network Virtualization Concepts](https://images.credly.com/size/110x110/images/930cc3e4-8a2e-41ae-84b8-40fcf471f786/image.png)](http://www.credly.com/badges/0127fb43-98b9-4bb1-94f1-2014240ca414 "IT Academy: Network Virtualization Concepts")
 [![VMware Certified Professional 6.5 – Data Center Virtualization](https://images.credly.com/size/110x110/images/a3d00169-b217-463b-a82f-d4ccb0716268/vmware_Cert_P_DCV6.5.png)](http://www.credly.com/badges/2aaf3d93-28dc-46a3-b7db-b7e8625ecac5 "VMware Certified Professional 6.5 – Data Center Virtualization")
@@ -19,16 +32,6 @@
 [![VMware Certified Master Specialist - HCI 2023](https://images.credly.com/size/110x110/images/f7ba7f4b-0eb6-4329-a473-9201bbe6a9de/image.png)](http://www.credly.com/badges/b5580b22-9bf3-40c9-8e00-a7bd8287743e "VMware Certified Master Specialist - HCI 2023")
 [![VMware Certified Master Specialist - HCI 2021](https://images.credly.com/size/110x110/images/37992a86-8dd9-47a0-983d-b0ba4fb2a962/Vmware_Sp_MS_HCI.png)](http://www.credly.com/badges/a264beed-16a9-46ef-8ec8-d1b7b0759167 "VMware Certified Master Specialist - HCI 2021")
 <!--END_SECTION:badges-->
-
-
-As a systems engineer passionate about servers, storage, and virtualization, I bring over ten years of experience designing and implementing enterprise IT solutions. 
-My expertise in virtualization technologies such as VMware and Hyper-V and my deep understanding of storage systems, network infrastructure, and server hardware have allowed me to deliver successful client IT projects. I am a creative problem solver and a strong communicator, able to work effectively with stakeholders to drive technical excellence and ensure project success.
-
-🌱 I’m currently learning PowerCLI and Python
-
-🥳 Fun fact: I love to experiment with coffee brewing methods, and I love to travel.
-
-📫 How to reach me: https://www.linkedin.com/in/tanjil360/
 <!--
 **MdTanjilIslamBappi/MdTanjilIslamBappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
