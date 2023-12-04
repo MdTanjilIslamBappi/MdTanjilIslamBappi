@@ -11,7 +11,7 @@ My expertise in virtualization technologies such as VMware and Hyper-V and my de
 📫 How to reach me: https://www.linkedin.com/in/tanjil360/
 
 
-## Badges that I have earned
+## My recent Badges
 <!--START_SECTION:badges-->
 [![VMware Certified Master Specialist - HCI 2023](https://images.credly.com/size/90x90/images/f7ba7f4b-0eb6-4329-a473-9201bbe6a9de/image.png)](http://www.credly.com/badges/b5580b22-9bf3-40c9-8e00-a7bd8287743e "VMware Certified Master Specialist - HCI 2023")
 [![Zerto Certified Associate](https://images.credly.com/size/90x90/images/b497d307-a9ce-4221-8cc0-39bb23b823e0/image.png)](http://www.credly.com/badges/0e014d65-bbe0-4230-b306-b03077e3ff48 "Zerto Certified Associate")
